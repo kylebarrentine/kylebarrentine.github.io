@@ -12,8 +12,9 @@ a:active {
     text-decoration: underline;
 }
 
-.center {
-    margin: 25%;
+.container {
+    margin-left: 25%;
+    margin-right: 25%;
     padding: 10px;
     text-align: center;
 }
